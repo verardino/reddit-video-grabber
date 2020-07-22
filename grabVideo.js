@@ -81,6 +81,7 @@ function removeDirectory(dirPath) {
       reject(err);
     }
   });
+
 }
 
 
